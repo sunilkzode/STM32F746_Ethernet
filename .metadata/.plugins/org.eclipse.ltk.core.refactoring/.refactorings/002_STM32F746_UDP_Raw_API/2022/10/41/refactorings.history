@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;002_STM32F746_UDP_Raw_API/001_STM32F746_Eth_Ping_192.168.29.123.ioc&apos; to &apos;002_STM32F746_UDP_Raw_API.ioc&apos;" description="Rename resource &apos;001_STM32F746_Eth_Ping_192.168.29.123.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="001_STM32F746_Eth_Ping_192.168.29.123.ioc" name="002_STM32F746_UDP_Raw_API.ioc" stamp="1664787960778" updateReferences="true"/>
+</session>

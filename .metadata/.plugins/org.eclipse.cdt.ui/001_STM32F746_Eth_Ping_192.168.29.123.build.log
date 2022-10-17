@@ -1,0 +1,10 @@
+01:08:44 **** Build of configuration Debug for project 001_STM32F746_Eth_Ping_192.168.29.123 ****
+make -j8 all 
+arm-none-eabi-size   001_STM32F746_Eth_Ping_192.168.29.123.elf 
+   text	   data	    bss	    dec	    hex	filename
+  69284	    128	  77864	 147276	  23f4c	001_STM32F746_Eth_Ping_192.168.29.123.elf
+Finished building: default.size.stdout
+ 
+
+01:08:45 Build Finished. 0 errors, 0 warnings. (took 750ms)
+

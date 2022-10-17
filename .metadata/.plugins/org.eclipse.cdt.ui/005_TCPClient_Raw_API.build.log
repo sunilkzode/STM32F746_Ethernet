@@ -1,0 +1,10 @@
+01:35:39 **** Incremental Build of configuration Debug for project 005_TCPClient_Raw_API ****
+make -j8 all 
+arm-none-eabi-size   005_TCPClient_Raw_API.elf 
+   text	   data	    bss	    dec	    hex	filename
+  84268	    128	  37040	 121436	  1da5c	005_TCPClient_Raw_API.elf
+Finished building: default.size.stdout
+ 
+
+01:35:39 Build Finished. 0 errors, 0 warnings. (took 578ms)
+

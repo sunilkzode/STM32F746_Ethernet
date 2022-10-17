@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;004_TCPServer_Raw_API/003_UDPClient_RAW_API.ioc&apos; to &apos;004_TCPServer_Raw_API.ioc&apos;" description="Rename resource &apos;003_UDPClient_RAW_API.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="003_UDPClient_RAW_API.ioc" name="004_TCPServer_Raw_API.ioc" stamp="1665327114123" updateReferences="true"/>
+</session>

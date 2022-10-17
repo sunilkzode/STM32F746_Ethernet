@@ -1,0 +1,2 @@
+../Core/Src/UDPServer.c:30:6:udpServer_init	24	static
+../Core/Src/UDPServer.c:60:6:udp_receive_callback	464	static

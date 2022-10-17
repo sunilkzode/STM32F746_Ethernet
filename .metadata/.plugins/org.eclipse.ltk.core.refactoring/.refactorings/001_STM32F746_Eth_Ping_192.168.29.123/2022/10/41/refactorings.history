@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;001_STM32F746_Eth_Ping_192.168.29.123/001_STM32F746_Ethernet.ioc&apos; to &apos;001_STM32F746_Eth_Ping_192.168.29.123.ioc&apos;" description="Rename resource &apos;001_STM32F746_Ethernet.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="001_STM32F746_Ethernet.ioc" name="001_STM32F746_Eth_Ping_192.168.29.123.ioc" stamp="1664717095522" updateReferences="true"/>
+</session>

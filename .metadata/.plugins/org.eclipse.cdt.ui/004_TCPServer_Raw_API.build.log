@@ -1,0 +1,10 @@
+01:08:52 **** Incremental Build of configuration Debug for project 004_TCPServer_Raw_API ****
+make -j8 all 
+arm-none-eabi-size   004_TCPServer_Raw_API.elf 
+   text	   data	    bss	    dec	    hex	filename
+  77020	    128	  36944	 114092	  1bdac	004_TCPServer_Raw_API.elf
+Finished building: default.size.stdout
+ 
+
+01:08:53 Build Finished. 0 errors, 0 warnings. (took 750ms)
+

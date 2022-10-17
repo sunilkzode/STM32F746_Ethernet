@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_UDPClient_RAW_API Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_STM32F746_Eth_Ping_192.168.29.123,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002_STM32F746_UDP_Raw_API,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_TCPClient_Raw_API Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_STM32F746_Eth_Ping_192.168.29.123/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_STM32F746_Eth_Ping_192.168.29.123/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_STM32F746_Ethernet\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_STM32F746_Ethernet\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002_STM32F746_UDP_Raw_API/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_UDPClient_RAW_API\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:004_TCPServer_Raw_API/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_TCPClient_Raw_API\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_TCP_Echo_Server_RawAPI/activeLaunchMode=run

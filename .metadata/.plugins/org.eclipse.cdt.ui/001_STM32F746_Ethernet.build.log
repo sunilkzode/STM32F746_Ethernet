@@ -1,0 +1,10 @@
+18:48:07 **** Incremental Build of configuration Debug for project 001_STM32F746_Ethernet ****
+make -j8 all 
+arm-none-eabi-size   001_STM32F746_Ethernet.elf 
+   text	   data	    bss	    dec	    hex	filename
+  69284	    128	  77864	 147276	  23f4c	001_STM32F746_Ethernet.elf
+Finished building: default.size.stdout
+ 
+
+18:48:08 Build Finished. 0 errors, 0 warnings. (took 549ms)
+

@@ -1,0 +1,5 @@
+../Core/Src/udpClientRAW.c:45:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/udpClientRAW.c:61:6:udpClient_connect	24	static
+../Core/Src/udpClientRAW.c:90:13:udpClient_send	120	static
+../Core/Src/udpClientRAW.c:114:6:udp_receive_callback	24	static
+../Core/Src/udpClientRAW.c:126:6:ethernetif_notify_conn_changed	16	static
